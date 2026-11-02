@@ -1,7 +1,13 @@
 # FilmPositive
 
-FilmPositive is a standalone Windows application for converting camera-scanned RAW film negatives into positive photographs. It supports color and black-and-white film, GPU processing, film-base sampling, per-frame adjustments, roll workflows, and TIFF/JPEG export. No Lightroom or Photoshop is required.
-
+Why FilmPositive?
+FilmPositive is built for photographers who camera-scan their film and want direct control over negative conversion in a dedicated Windows application.
+- An adjustable conversion foundation. Sample clear film before cropping, use optical-density inversion or RGB channel curves, and adjust the automatic white-point percentile to control the balance between brightness and highlight clipping.
+- A workflow built around rolls. Share film-base measurements and selected settings across a roll while retaining individual crops, rotations, and frame adjustments.
+- Color decisions without scanner-look presets. FilmPositive focuses on film-base sampling, conversion controls, and positive-image adjustments. It does not apply Adobe creative profiles or Noritsu/Frontier-style emulations.
+- Conversion and finishing together. Crop, convert, adjust color and tone, sharpen, and export TIFF or JPEG from the same application.
+- Local operation. No Adobe application, account, or internet connection is required. Original RAW files remain untouched.
+FilmPositive is currently an early Windows testing release. Its emphasis is on making the conversion process adjustable and repeatable.  
 ## Features
 
 - GPU-accelerated negative conversion
