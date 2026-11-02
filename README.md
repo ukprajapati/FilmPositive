@@ -13,7 +13,7 @@ camera-scanned color and black-and-white film negatives.
 
 ## Download
 
-Open Releases and download the Windows x64 Setup installer.
+[Download FilmPositive 0.8.0 for Windows](https://github.com/ukprajapati/FilmPositive/releases/download/v0.8.0/FilmPositive-0.8.0-Windows-x64-Setup.exe)
 
 No Python installation or administrator access is required.
 
