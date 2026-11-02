@@ -1,4 +1,4 @@
-# FilmPositive
+# FilmPositive — RAW Film Negative Conversion for Windows
 
 Why FilmPositive?
 FilmPositive is built for photographers who camera-scan their film and want direct control over negative conversion in a dedicated Windows application.
