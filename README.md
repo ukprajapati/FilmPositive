@@ -1,7 +1,6 @@
 # FilmPositive
 
-FilmPositive is a standalone Windows application for converting
-camera-scanned color and black-and-white film negatives.
+FilmPositive is a standalone Windows application for converting camera-scanned RAW film negatives into positive photographs. It supports color and black-and-white film, GPU processing, film-base sampling, per-frame adjustments, roll workflows, and TIFF/JPEG export. No Lightroom or Photoshop is required.
 
 ## Features
 
